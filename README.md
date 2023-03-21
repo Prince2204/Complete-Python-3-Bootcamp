@@ -1,9 +1,21 @@
 # Complete-Python-3-Bootcamp
-Course Files for Complete Python 3 Bootcamp Course on Udemy
 
-Copyright(©) by Pierian Data Inc.
+Basic Practice:
 
-Get it now for 95% off with the link:
-https://www.udemy.com/complete-python-bootcamp/?couponCode=COMPLETE_GITHUB
+http://codingbat.com/python
 
-Thanks!
+More Mathematical (and Harder) Practice:
+
+https://projecteuler.net/archives
+
+List of Practice Problems:
+
+http://www.codeabbey.com/index/task_list
+
+A SubReddit Devoted to Daily Practice Problems:
+
+https://www.reddit.com/r/dailyprogrammer
+
+A very tricky website with very few hints and touch problems (Not for beginners but still interesting)
+
+http://www.pythonchallenge.com/
